@@ -1,0 +1,23 @@
+{
+  "name": "face-detection-mern-app",
+  "version": "1.0.0",
+  "description": "This is a mern project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev",
+    "dev": "node backend_app/index.js"
+  },
+  "keywords": [
+    "mern",
+    "mern",
+    "project",
+    "face",
+    "detection",
+    "app"
+  ],
+  "author": "Ishan Chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "faceapi": "^1.0.1"
+  }
+}
