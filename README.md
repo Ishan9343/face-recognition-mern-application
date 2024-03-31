@@ -38,7 +38,7 @@ Authentication: JWT
 
 open folder in IDE (Recommanded: VS Code).
 
-Install frontend dependencies
+Install frontend dependencies: 
 cd frontend_app
 or
 cd ~/path/to/your/face-recognition-auth-reactjs/frontend_app 
@@ -46,7 +46,7 @@ cd ~/path/to/your/face-recognition-auth-reactjs/frontend_app
 npm install
 npm start
 
-Install backend dependencies
+Install backend dependencies: 
 cd backend_app
 or
 cd ~/path/to/your/face-recognition-auth-reactjs/backend_app 
