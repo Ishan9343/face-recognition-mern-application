@@ -18,7 +18,9 @@ const app = express()
 app.use(cors())
 app.use(express.json({limit: '5mb'}))
 const corsOptions = {
-    origin: '*'
+    origin: '*',
+ credentials: true,
+ methods: ['GET', 'POST', 'PUT', 'DELETE']
 }
 app.use(express.static('public'))
 
