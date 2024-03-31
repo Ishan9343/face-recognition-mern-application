@@ -101,10 +101,11 @@ export const Register = ({ enableInput }) => {
     onChange={(e) => dispatch(setRegisterPassword(e.target.value))} />
   </div>
   <div class="mb-3" onClick={() => enableInput('repeat-password')}>
-    <label for="exampleInputPassword1" class="form-label">R Password</label>
+    <label for="exampleInputPassword1" class="form-label">Repeat Password</label>
     <input type="password" name="repeat-password" class="form-control" id="exampleInputPassword1"   value={repeatPassword || ''}
     onChange={(e) => dispatch(setRegisterRepeatPassword(e.target.value))} />
   </div>
+    <p><strong>*Scroll up for scanning face*</strong></p>
   
   <button type="submit" class="btn btn-warning" onClick={(e) => manageForm(e)}>Submit</button>
      <PictureControls />
