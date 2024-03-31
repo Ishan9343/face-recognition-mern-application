@@ -1,4 +1,4 @@
-const BACKEND_URL = 'https://face-recognition-mern-application-mjp2.vercel.app'
+const BACKEND_URL = 'https://face-recognition-mern-application-1.onrender.com'
 
 // BASE AUTH
 const AUTH_URL = '/api/auth'
