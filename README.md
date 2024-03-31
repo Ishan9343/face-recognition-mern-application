@@ -64,8 +64,8 @@ MONGO_URI='mongodb+srv://<USERNAME>:<PASSWORD>@cluster0.bckok.mongodb.net/<DATAB
 
 ## Security measures
 
-Validations
-Password hashing
+1.Validations
+2.Password hashing
 
 
 ## Acknowledgements:
