@@ -27,11 +27,11 @@ Authentication: JWT
 
 ## System Requirements
 
-- **ReactJs** 
-- **NODE.JS** 
-- **Faceapi.js**  (run command npm install)
-- **NPM**
-- **MongoDB**
+- **Reactjs** 
+- **Nodejs** 
+- **Faceapi.js**  
+- **Npm**
+- **MongoDb-Atlas**
 
 
 ## Installation
@@ -70,6 +70,6 @@ MONGO_URI='mongodb+srv://<USERNAME>:<PASSWORD>@cluster0.bckok.mongodb.net/<DATAB
 
 ## Acknowledgements:
 
-Docs of Reactjs, Nodejs, Tailwind.css and MongoDb Atlas Web Application guide.
+Docs of Reactjs, Nodejs, Bootstrap-5 and MongoDb Atlas Web Application guide.
 
                                                                 Submitted by: Ishan Chauhan 
